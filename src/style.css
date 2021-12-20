@@ -1,1 +1,33 @@
 /* styles go here */
+body {
+  margin: 8px 10px;
+}
+
+label {
+  display: block;
+  margin-bottom: 10px;
+}
+
+label:last-child {
+  margin: 0;
+}
+
+fieldset {
+  margin: 0 0 20px;
+}
+
+fieldset:last-child {
+  margin: 0;
+}
+
+button {
+  margin: 0;
+}
+
+#howOld {
+  width: 65px;
+}
+
+.cat {
+  display: inline-block;
+}
